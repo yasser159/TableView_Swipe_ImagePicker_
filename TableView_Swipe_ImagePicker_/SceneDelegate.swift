@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  TableView_Swipe_ImagePicker_
+//  tableview advanced custom cell
 //
-//  Created by Yasser Hajlaoui on 3/24/22.
+//  Created by Yasser Hajlaoui on 2/21/22.
 //
 
 import UIKit
